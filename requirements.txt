@@ -1,3 +1,7 @@
 streamlit
 pypdf
+<<<<<<< HEAD
 langchain-google-genai
+=======
+langchain-google-genai
+>>>>>>> 3175d576efb2953cc6c98b86a80c1ef240f71174
